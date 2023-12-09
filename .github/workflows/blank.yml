@@ -1,6 +1,6 @@
 # 
 # Bùi Tuấn Nam
-# For my girl
+# Cây thông Noel
 #
 # Viết chương trình vẽ cây thông Noel
 #
@@ -25,7 +25,7 @@ def christmas_tree(height):
     print((' ' * (height - 1)) + 'mWm')
     print((' ' * (height - 1)) + 'mWm')
     color = random.choice(colors)
-    print(color, (' ' * 8) + 'Merry Christmas my sweetie babyy!')
+    print(color, (' ' * 8) + 'Merry Christmas my Babi Boo!')
     print(color, (' ' * 14) + '2023')
     print(color, (' ' * 7) + 'Bùi Tuấn Nam')
 
